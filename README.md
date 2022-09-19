@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# Sample NFT minting Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract and mints an NFT.
+This project demonstrates a basic nft minting process. It comes with a sample contract, a test for that contract, and a script that deploys that contract and mints an NFT.
 
 Try running some of the following tasks:
 
